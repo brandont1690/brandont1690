@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @brandont1690
-- 👀 I’m interested in git gud (maybe a little bit of pun intended).
-- 🌱 I’m currently learning Bachelor Degree of Computer Science in Software Engineering.
+- 🌱 I’m a graduate with a Bachelor's Degree in Computer Science in Software Engineering.
 - 📫 How to reach me, my email is tanbrandon1690@gmail.com
 
 <!---
